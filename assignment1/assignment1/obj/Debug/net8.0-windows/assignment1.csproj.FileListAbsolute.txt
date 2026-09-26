@@ -1,0 +1,16 @@
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\bin\Debug\net8.0-windows\assignment1.exe
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\bin\Debug\net8.0-windows\assignment1.deps.json
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\bin\Debug\net8.0-windows\assignment1.runtimeconfig.json
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\bin\Debug\net8.0-windows\assignment1.dll
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\bin\Debug\net8.0-windows\assignment1.pdb
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\obj\Debug\net8.0-windows\assignment1.Form1.resources
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\obj\Debug\net8.0-windows\assignment1.csproj.GenerateResource.cache
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\obj\Debug\net8.0-windows\assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\obj\Debug\net8.0-windows\assignment1.AssemblyInfoInputs.cache
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\obj\Debug\net8.0-windows\assignment1.AssemblyInfo.cs
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\obj\Debug\net8.0-windows\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\obj\Debug\net8.0-windows\assignment1.dll
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\obj\Debug\net8.0-windows\refint\assignment1.dll
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\obj\Debug\net8.0-windows\assignment1.pdb
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\obj\Debug\net8.0-windows\assignment1.genruntimeconfig.cache
+C:\Users\mideeye\OneDrive\Documents\csharp\assignment1\assignment1\obj\Debug\net8.0-windows\ref\assignment1.dll
