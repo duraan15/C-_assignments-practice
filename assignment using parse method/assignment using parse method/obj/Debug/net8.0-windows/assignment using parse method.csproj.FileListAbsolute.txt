@@ -1,0 +1,16 @@
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\bin\Debug\net8.0-windows\assignment using parse method.exe
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\bin\Debug\net8.0-windows\assignment using parse method.deps.json
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\bin\Debug\net8.0-windows\assignment using parse method.runtimeconfig.json
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\bin\Debug\net8.0-windows\assignment using parse method.dll
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\bin\Debug\net8.0-windows\assignment using parse method.pdb
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\obj\Debug\net8.0-windows\assignment_using_parse_method.Form1.resources
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\obj\Debug\net8.0-windows\assignment using parse method.csproj.GenerateResource.cache
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\obj\Debug\net8.0-windows\assignment using parse method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\obj\Debug\net8.0-windows\assignment using parse method.AssemblyInfoInputs.cache
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\obj\Debug\net8.0-windows\assignment using parse method.AssemblyInfo.cs
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\obj\Debug\net8.0-windows\assignment using parse method.csproj.CoreCompileInputs.cache
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\obj\Debug\net8.0-windows\assignment using parse method.dll
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\obj\Debug\net8.0-windows\refint\assignment using parse method.dll
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\obj\Debug\net8.0-windows\assignment using parse method.pdb
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\obj\Debug\net8.0-windows\assignment using parse method.genruntimeconfig.cache
+C:\Users\mideeye\OneDrive\Desktop\assingments\assignment using parse method\assignment using parse method\obj\Debug\net8.0-windows\ref\assignment using parse method.dll
