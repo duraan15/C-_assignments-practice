@@ -1,0 +1,16 @@
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\bin\Debug\net8.0-windows\electircity bill costomer.exe
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\bin\Debug\net8.0-windows\electircity bill costomer.deps.json
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\bin\Debug\net8.0-windows\electircity bill costomer.runtimeconfig.json
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\bin\Debug\net8.0-windows\electircity bill costomer.dll
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\bin\Debug\net8.0-windows\electircity bill costomer.pdb
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\obj\Debug\net8.0-windows\electircity_bill_costomer.Form1.resources
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\obj\Debug\net8.0-windows\electircity bill costomer.csproj.GenerateResource.cache
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\obj\Debug\net8.0-windows\electircity bill costomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\obj\Debug\net8.0-windows\electircity bill costomer.AssemblyInfoInputs.cache
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\obj\Debug\net8.0-windows\electircity bill costomer.AssemblyInfo.cs
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\obj\Debug\net8.0-windows\electircity bill costomer.csproj.CoreCompileInputs.cache
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\obj\Debug\net8.0-windows\electircity bill costomer.dll
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\obj\Debug\net8.0-windows\refint\electircity bill costomer.dll
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\obj\Debug\net8.0-windows\electircity bill costomer.pdb
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\obj\Debug\net8.0-windows\electircity bill costomer.genruntimeconfig.cache
+C:\Users\mideeye\OneDrive\Desktop\assingments\electircity bill costomer\electircity bill costomer\obj\Debug\net8.0-windows\ref\electircity bill costomer.dll
